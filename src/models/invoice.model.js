@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const invoiceScheme = new mongoose.Schema(
+const invoiceSchema = new mongoose.Schema(
     {
         "invoiceNo": {
           "type": "Number"
@@ -92,10 +92,13 @@ const invoiceScheme = new mongoose.Schema(
         },
         "isActive": {
           "type": "Number"
+        },
+        "createdBy": {
+          "type": "String"
         }
       }
 )
 
-export const Invoice = mongoose.model("Invoice", invoiceScheme);
+export const Invoice = mongoose.model("Invoice", invoiceSchema);
 
 // module.exports = Invoice;
