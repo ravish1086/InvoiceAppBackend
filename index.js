@@ -7,7 +7,7 @@ import connectDB from "./src/db/db.js";
 // import swaggerUi from "swagger-ui-express"
 
 
-
+console.log("Server COnfigured")
 connectDB()
 .then(() => {
     app.listen(process.env.PORT, ()=>{

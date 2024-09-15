@@ -1,3 +1,4 @@
+import { JWT_SECRET } from "../../constant.js";
 import { User } from "../models/user.model.js"
 import jwt from "jsonwebtoken"
 
@@ -15,7 +16,7 @@ const authenticateUser = async (req,res) => {
 
             jwt.sign(
                 payload,
-                process.env.JWT_SECRET,
+                JWT_SECRET,
                 { expiresIn: '30s' }, // Token expires in 1 hour
                 (err, token) => {
                     if (err) throw err;
