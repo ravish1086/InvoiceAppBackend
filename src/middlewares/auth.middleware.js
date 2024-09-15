@@ -18,7 +18,7 @@ function auth(req, res, next) {
         // Add user from payload
         req.createdBy = decoded._doc.pan;
 
-        console.log( req.createdBy)
+        // console.log( req.createdBy)
         next();
     } catch (err) {
         res.status(401).json({ msg: 'Token is not valid'});

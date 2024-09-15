@@ -6,12 +6,13 @@ import mongoose from "mongoose";
 import connectDB from "./src/db/db.js";
 // import swaggerUi from "swagger-ui-express"
 
+const PORT=4500
 
 console.log("Server COnfigured")
 connectDB()
 .then(() => {
     app.listen(process.env.PORT, ()=>{
-        console.log(`Server is running at PORT ${process.env.PORT}`)
+        console.log(`Server is running at PORT ${PORT}`)
     })
 })
 

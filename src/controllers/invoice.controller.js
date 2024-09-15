@@ -2,7 +2,7 @@ import { Invoice } from "../models/invoice.model.js";
 
 const getAllInvoices = async (req,res) =>{
     try{
-        console.log(req.createdBy)
+        
         let allInvoices = await Invoice.find({createdBy: req.createdBy});
         res.status(200).json(allInvoices);
     }
