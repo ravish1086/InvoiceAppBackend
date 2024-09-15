@@ -1,0 +1,629 @@
+[
+    {
+      "customerGst": "09ABMPV4631M1ZW",
+      "customerName": "B P Printers",
+      "customerPan": "ABMPV4631M",
+      "customerContact": 9410201227,
+      "customerAddress": "13/44 Nai Ki Mandi,Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 1
+    },
+    {
+      "customerName": "Gorav Prakashan",
+      "customerContact": 9411084876,
+      "customerAddress": "47/180A Garhi Bhadoria , AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 2
+    },
+    {
+      "customerName": "Harendra Offset",
+      "customerContact": 8126418926,
+      "customerAddress": "Aheerpara, AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 3
+    },
+    {
+      "customerName": "H.M. Printers",
+      "customerContact": "9149017337",
+      "customerAddress": "Kailash Mandir sikandra Agra",
+      "id": 4
+    },
+    {
+      "customerGst": "09AGZPA9557H1ZM",
+      "customerName": "Shyam Ji Enterprises",
+      "customerPan": "AGZPA9557H",
+      "customerContact": "9837026896",
+      "customerAddress": "Near Rajshree Cinema, AGRA",
+      "id": 5
+    },
+    {
+      "customerGst": "09AAOPJ0236F1ZU",
+      "customerName": "Jaiswal Printing Press",
+      "customerPan": "AAOPJ0236F",
+      "customerContact": 9319379687,
+      "customerAddress": "Seth Gali Agra-3",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 6
+    },
+    {
+      "customerGst": "09EAPPG9347P1ZL",
+      "customerName": "new AGRA LAW AGENCY",
+      "customerPan": "EAPPG9347P",
+      "customerContact": "7835902671",
+      "customerAddress": "46,Friends Puram Ext. Kargil-Bodla Road Agra",
+      "id": 7
+    },
+    {
+      "customerName": "Kaka Printers",
+      "customerContact": 9319272077,
+      "customerAddress": "9/414 Moti Katra  Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 8
+    },
+    {
+      "customerGst": "09AOOPA6689P1ZW",
+      "customerName": "Zeenat Offset Printers",
+      "customerPan": "AOOPA6689P",
+      "customerContact": 9219196025,
+      "customerAddress": "33/237A, Jatpura,Lohamandi, AGRA-2",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 9
+    },
+    {
+      "customerGst": "09AADFL6015D1ZN",
+      "customerName": "Lakshmi Narain Agarwal",
+      "customerPan": "AADFL6015D",
+      "customerContact": "0562-2527448",
+      "customerAddress": "Anupam Plaza-I,Block no.50 ,Sanjay Palace, Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 10
+    },
+    {
+      "customerName": "Manoj Printers",
+      "customerContact": 8755801634,
+      "customerAddress": "10/32 Patel Nagar, Moti Katra, AGRA-3",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 11
+    },
+    {
+      "customerGst": "09ADDPM0827F1ZR",
+      "customerName": "Mayur Art Gallery   ",
+      "customerPan": "ADDPM0827F",
+      "customerContact": 9837831965,
+      "customerAddress": "Savan Katra  AGRA-3",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 12
+    },
+    {
+      "customerGst": "09BOIPK0811A1ZI",
+      "customerName": "H.R.Enterprises",
+      "customerPan": "BOIPK0811A",
+      "customerContact": 9557689798,
+      "customerAddress": "Gayatri Vihar Colony,Baipur Road,Sikandra Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 13
+    },
+    {
+      "customerGst": "09AABCU4639D1ZC",
+      "customerName": "Unitech Organics Pvt.Ltd.",
+      "customerPan": "AABCU4639D",
+      "customerContact": "9412254848",
+      "customerAddress": "45/123 ,Nagla Ajita Sec. 8  Agra-2",
+      "id": 14
+    },
+    {
+      "customerGst": "09AAEPY6229K1Z1",
+      "customerName": "Pooja Offset Printers",
+      "customerPan": "AAEPY6229K",
+      "customerContact": 9412255038,
+      "customerAddress": "Aheerpara, AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 15
+    },
+    {
+      "customerGst": "09AWIPK8932H1Z3",
+      "customerName": "Laxmi Offset Screeners",
+      "customerPan": "AWIPK8932H",
+      "customerContact": "9319344109",
+      "customerAddress": "Iradatnagar Road, Shamsabad",
+      "id": 16
+    },
+    {
+      "customerGst": "09ABVPG5753E1ZA",
+      "customerName": "Gupta Metals & Chemicals",
+      "customerPan": "ABVPG5753E",
+      "customerContact": 9358189580,
+      "customerAddress": "8/117,Hing Ki Mandi. AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 17
+    },
+    {
+      "customerGst": "09AAECR3500R1Z1",
+      "customerName": "Radha Prakashan Mandir Pvt.Ltd",
+      "customerPan": "AAECR3500R",
+      "customerContact": "0562-6535342",
+      "customerAddress": "Nagla Ajeeta,Parshurampuri,Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 18
+    },
+    {
+      "customerGst": "09ACOPA0069M1ZD",
+      "customerName": "Ram Prasad Publications",
+      "customerPan": "ACOPA0069M",
+      "customerContact": 9410003400,
+      "customerAddress": "6/3G/43A,Shastri Nagar,Gali -1, Agra-2",
+      "id": 19
+    },
+    {
+      "customerGst": "",
+      "customerName": "Shikshak Priksha  Kendra",
+      "customerPan": "ABPPA9660A",
+      "customerContact": "9412011338",
+      "customerAddress": "Bada Bazaar, SHIKOHABAD",
+      "id": 20
+    },
+    {
+      "customerGst": "09AJPPA7807B3ZA",
+      "customerName": "Shanti Publications",
+      "customerPan": "AJPPA7807B",
+      "customerContact": 9897121545,
+      "customerAddress": "Golden Palace ,Hospital Road ,Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 21
+    },
+    {
+      "customerGst": "09ABZPY0008L1ZV",
+      "customerName": "Sneha Graphics",
+      "customerPan": "ABZPY0008L",
+      "customerContact": 9319114202,
+      "customerAddress": "Aheer Para , Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 22
+    },
+    {
+      "customerGst": "",
+      "customerName": "Anjana Prakashan",
+      "customerPan": "",
+      "customerContact": "9837420571",
+      "customerAddress": "208, Jaipur House   , AGRA",
+      "id": 23
+    },
+    {
+      "customerGst": "09AAPPY7350J1ZS",
+      "customerName": "Shyamji Offset Printers",
+      "customerPan": "AAPPY7350J",
+      "customerContact": 9897337803,
+      "customerAddress": "HM 36 Khasra 226 to 229 Moja Maghtai AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 24
+    },
+    {
+      "customerGst": "09ABZPV9954A1ZO",
+      "customerName": "Super Star Printers",
+      "customerPan": "ABZPV9954A",
+      "customerContact": 9411461626,
+      "customerAddress": "35/565/1 Naubasta Lohamandi,Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 25
+    },
+    {
+      "customerGst": "23CCMPR8381K1ZV",
+      "customerName": "Prashant Publishers & Distributors",
+      "customerPan": "CCMPR8381K",
+      "customerContact": "7415263393",
+      "customerAddress": "Juemarati Gate,Bhopal",
+      "customerCity": "Bhopal",
+      "customerState": "Madhya Pradesh",
+      "customerCountry": "India",
+      "id": 26
+    },
+    {
+      "customerGst": "09AJEPY8428P1Z3",
+      "customerName": "Tanvi Offset Printers",
+      "customerPan": "AJEPY8428P",
+      "customerContact": 8273300361,
+      "customerAddress": "Aheer Para , Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 27
+    },
+    {
+      "customerGst": "09ALLPH3909F1Z2",
+      "customerName": "Tars Printers",
+      "customerPan": "ALLPH3909F",
+      "customerContact": 9837004336,
+      "customerAddress": "205,Block-40/2/4 Sky Tower Sanjay Place, Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 28
+    },
+    {
+      "customerGst": "09AAAFT6093J1ZR",
+      "customerName": "The Print Chamber",
+      "customerPan": "AAAFT6093J",
+      "customerContact": 9411401858,
+      "customerAddress": "48,Gopichand Shivhare Road,SadarBazar,AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 29
+    },
+    {
+      "customerGst": "09AKDPS2335K1ZW",
+      "customerName": "Vigyan Bodh Prakashan",
+      "customerPan": "AKDPS2335K",
+      "customerContact": 9412160729,
+      "customerAddress": "Sikandra ,Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 30
+    },
+    {
+      "customerGst": "09AAVPJ6456A1ZF",
+      "customerName": "Print Kala Kendra",
+      "customerPan": "AAVPJ6456A",
+      "customerContact": 9557755110,
+      "customerAddress": "Raja Mandi,  Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 31
+    },
+    {
+      "customerGst": "09HOOPK7141R1ZU",
+      "customerName": "CHANDRA PRINTERS   ",
+      "customerPan": "HOOPK7141R",
+      "customerContact": 8279960396,
+      "customerAddress": "26/95 AHIR PARA, RAJA MANDI,AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 32
+    },
+    {
+      "customerGst": "09DXZPS3488D1ZG",
+      "customerName": "G.P. ENTERPRISES",
+      "customerPan": "DXZPS3488D",
+      "customerContact": "9368900866",
+      "customerAddress": "Shiv Vihar Colony, Kailash Mandir Road, Sikandra,Agra",
+      "id": 33
+    },
+    {
+      "customerGst": "09AEQPM5142M1ZV",
+      "customerName": "Rajbharti Press",
+      "customerPan": "AEQPM5142M",
+      "customerContact": 8791994886,
+      "customerAddress": "30/127,Azad Gali, Johari Bazar,  AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 34
+    },
+    {
+      "customerGst": "09AIVPS0957R1ZW",
+      "customerName": "Sharda Printers",
+      "customerPan": "AIVPS0957R",
+      "customerContact": 7078744267,
+      "customerAddress": "Khasra no. 72, Bichpuri, Agra",
+      "id": 35
+    },
+    {
+      "customerName": "Ravi Mudranalya",
+      "customerContact": 9837210345,
+      "customerAddress": "11/6 Bag Muzaffar Khan , AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 36
+    },
+    {
+      "customerGst": "09AADFG4819N2ZY",
+      "customerName": "GARGH CHEMICAL WORKS",
+      "customerPan": "AADFG4819N",
+      "customerContact": "0562-2851263",
+      "customerAddress": "G-13 41/4 B Block Friends Tower, SANJAY place, AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 37
+    },
+    {
+      "customerGst": "09AUQPS3557E1Z2",
+      "customerName": "Hema Enterprises",
+      "customerPan": "AUQPS3557E",
+      "customerContact": 9837771737,
+      "customerAddress": "27/67 ,Behind Chandra & Co., Freeganj, Agra-4",
+      "id": 38
+    },
+    {
+      "customerGst": "09AJWPK4762A1ZX",
+      "customerName": "G.T.B. Traders",
+      "customerPan": "AJWPK4762A",
+      "customerContact": 7300961777,
+      "customerAddress": "LG-14 Prateek Tower, Sanjaj Place,Agra-2",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 39
+    },
+    {
+      "customerGst": "09BODPA2436L1Z1",
+      "customerName": "Puneet Publications",
+      "customerPan": "BODPA2436L",
+      "customerContact": 9927952429,
+      "customerAddress": "9/230, Moti Bagh, Yamuna Bridge,Agra-5",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 40
+    },
+    {
+      "customerGst": "09BFEPS1023M1ZA",
+      "customerName": "Kailash Printers,93-94 GR Enclave",
+      "customerPan": "BFEPS1023M",
+      "customerContact": 9058311951,
+      "customerAddress": "Murli Vihar,Doretha No. 1 , Shahganj AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 41
+    },
+    {
+      "customerGst": "09AEUPJ0777K1ZR",
+      "customerName": "Ankur Packers",
+      "customerPan": "AEUPJ0777K",
+      "customerContact": 9319909934,
+      "customerAddress": "9/9 MOTI KATRA , AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 42
+    },
+    {
+      "customerGst": "09CZJPK1932K1Z1",
+      "customerName": "GCS TRADERS",
+      "customerPan": "CZJPK1932K",
+      "customerContact": "9897358869",
+      "customerAddress": "Near Railway Line Mustfa Qwters AGRA-1",
+      "id": 43
+    },
+    {
+      "customerGst": "09ANTPS2986D1Z8",
+      "customerName": "Laxmi Process",
+      "customerPan": "ANTPS2986D",
+      "customerContact": 9411084332,
+      "customerAddress": "26/70 Aheerpra, Agra-2",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 44
+    },
+    {
+      "customerGst": "09ACEPA6856G1ZL",
+      "customerName": "Hanuman Printers",
+      "customerPan": "ACEPA6856G",
+      "customerContact": 9634668588,
+      "customerAddress": "Rajpur Chungi, AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 45
+    },
+    {
+      "customerGst": "09ADRPS2209K1Z0",
+      "customerName": "Divyaa Corporative",
+      "customerPan": "ADRPS2209K",
+      "customerContact": 9410664214,
+      "customerAddress": "10,Agarwal Complex,Sewla Jat AGRA-1",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 46
+    },
+    {
+      "customerGst": "09FAJPK2597A1ZJ",
+      "customerName": "Kanhaiya Printers",
+      "customerPan": "FAJPK2597A",
+      "customerContact": 6396706607,
+      "customerAddress": "46/1095OPP. SHANTI CINEMA JAGDISHPURA AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 47
+    },
+    {
+      "customerGst": "09ADGPA0977M1ZA",
+      "customerName": "Daniya Printers",
+      "customerPan": "ADGPA0977M",
+      "customerContact": 9837353351,
+      "customerAddress": "14/74,HOSPITAL Road Agra-3",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 48
+    },
+    {
+      "customerGst": "09ABQFA9056P1ZF",
+      "customerName": "Agra Print Zone",
+      "customerPan": "ABQFA9056P",
+      "customerContact": 9319114202,
+      "customerAddress": "26/68 Ahir Para,Raja Mandi, Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 49
+    },
+    {
+      "customerGst": "09AADHP0703J1ZB",
+      "customerName": "Navneet Printing Systems",
+      "customerPan": "AADHP0703J",
+      "customerContact": 9837302898,
+      "customerAddress": "2/90,Kotla House,Church Road,AGRA -2",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 50
+    },
+    {
+      "customerGst": "09AGYPS3122R1ZB",
+      "customerName": "Mohan Mudranalya",
+      "customerPan": "AGYPS3122R",
+      "customerContact": 9897614116,
+      "customerAddress": "khasra no. 85B kalwari Road,Bodla, Agra-10",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 51
+    },
+    {
+      "customerGst": "09AADFP5487H1ZT",
+      "customerName": "Paras Chemical Industries",
+      "customerPan": "AADFP5487H",
+      "customerContact": 9837059240,
+      "customerAddress": "20/4,Maruti Towers, Sanjay Place AGRA-2",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 52
+    },
+    {
+      "customerGst": "09BCUPK3670F1Z6",
+      "customerName": "Om Sai Offset Printing Press",
+      "customerPan": "BCUPK3670F",
+      "customerContact": "9368176696",
+      "customerAddress": "Plot no.78 Banke lodhi Vihar, Kalwari.Agra",
+      "id": 53
+    },
+    {
+      "customerGst": "09AEIPA6313E1ZX",
+      "customerName": "Garg Printers",
+      "customerPan": "AEIPA6313E",
+      "customerContact": 9359227344,
+      "customerAddress": "Laxmipuram,Rajpur Chungi,Agra",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 54
+    },
+    {
+      "customerGst": "09AAACD5810G1ZX",
+      "customerName": "Dyalbagh Press & Publications Pvt.Ltd.",
+      "customerPan": "AAACD5810G",
+      "customerContact": 9837307258,
+      "customerAddress": "Dyalbagh, AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 55
+    },
+    {
+      "customerGst": "09AZKPY6555B1ZU",
+      "customerName": "MAA LAXMI PRINTERS",
+      "customerPan": "AZKPY6555B",
+      "customerContact": "9568000872",
+      "customerAddress": "24/59 Puniya pada, Lohamandi ,AGRA",
+      "id": 56
+    },
+    {
+      "customerGst": "09AIVPK2347K1ZM",
+      "customerName": "Anmol  Pakashan Mandir",
+      "customerPan": "AIVPK2347K",
+      "customerContact": "9058038071",
+      "customerAddress": "76,Gaurav Encl.Rashmi vihar col.Shamsabad Road, Agra-1",
+      "id": 57
+    },
+    {
+      "customerGst": "09AASPW8005B1ZE",
+      "customerName": "Maksood Printers",
+      "customerPan": "AASPW8005B",
+      "customerContact": "8909007222",
+      "customerAddress": "Khasra 477,Plot 7-B,Gajendra Nagar,MAGTAI, AGRA-7",
+      "id": 58
+    },
+    {
+      "customerGst": "09FJMPB9350Q1ZC",
+      "customerName": "Bhargava Enterprises",
+      "customerPan": "FJMPB9350",
+      "customerContact": 8273791755,
+      "customerAddress": "85. Ashok Nagar, AGRA",
+      "id": 59
+    },
+    {
+      "customerGst": "09DABPS7400E1ZT",
+      "customerName": "Roop maya Graphics & Printer",
+      "customerPan": "DABPS7400E",
+      "customerContact": 9756139835,
+      "customerAddress": "39/B/111,SKY TOWER, SANJAY PLACE, AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 60
+    },
+    {
+      "customerGst": "09CELPK8558N1ZG",
+      "customerName": "Ganesh Printers",
+      "customerPan": "CELPK8558N",
+      "customerContact": 9368701277,
+      "customerAddress": "32,Sudha Complex, Kidwai Park,RAJA MANDI AGRA-2",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 61
+    },
+    {
+      "customerGst": "09ABNFA0061B1ZW",
+      "customerName": "Aadhya Printers",
+      "customerPan": "ABNFA0061B",
+      "customerContact": 9359739770,
+      "customerAddress": "Khasra no.280, Magtai, Bichpuri Road, AGRA",
+      "customerCity": "Agra",
+      "customerState": "Uttar Pradesh",
+      "customerCountry": "India",
+      "id": 62
+    },
+    {
+      "customerGst": "",
+      "customerName": "Anmol Book Ditributors",
+      "customerPan": "AQVPS0699E",
+      "customerContact": "7017594982",
+      "customerAddress": "Infront of Primary School,   Kaharai Road, Agra-282001",
+      "id": 63
+    }
+  ]

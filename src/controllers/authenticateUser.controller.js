@@ -7,7 +7,7 @@ const authenticateUser = async (req,res) => {
     try{
         let authenticatedUser = await User.findOne({pan:req.body.userId});
         if(!authenticatedUser){
-            return res.status(400).json({ msg: 'Invalid credentials' });
+            return res.status(200).json({ msg: 'Invalid credentials', status:false });
         }
         else {
             const payload = {
@@ -17,10 +17,10 @@ const authenticateUser = async (req,res) => {
             jwt.sign(
                 payload,
                 JWT_SECRET,
-                { expiresIn: '30s' }, // Token expires in 1 hour
+                // Token expires in 1 hour  { expiresIn: '30s' },
                 (err, token) => {
                     if (err) throw err;
-                    res.status(200).json({ message:"Successfully Authenticated", userInfo:authenticatedUser, token });
+                    res.status(200).json({ message:"Successfully Authenticated", status:true, userInfo:authenticatedUser, token });
                 }
             );
         }

@@ -1,0 +1,1208 @@
+[
+    {
+      "productName": "AKRONGOLD",
+      "productHsn": 3824,
+      "productPrice": "174",
+      "productTaxRate": 18,
+      "productUnit": "LTR.",
+      "inStock": -321.95,
+      "id": 1
+    },
+    {
+      "productName": "Black     Turbo chrom   5  kg.",
+      "productHsn": 3215,
+      "productPrice": "235",
+      "productTaxRate": "18",
+      "productUnit": "Kgs.",
+      "inStock": -38,
+      "id": 2
+    },
+    {
+      "productName": "Black     Turbo chrom 2 kg.",
+      "productHsn": 3215,
+      "productPrice": "235",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -1108,
+      "id": 3
+    },
+    {
+      "productName": "Benzene    Per Bottel",
+      "productHsn": 2902,
+      "productPrice": "80",
+      "productTaxRate": 18,
+      "productUnit": "bottl.",
+      "inStock": -40,
+      "id": 4
+    },
+    {
+      "productName": "Blanket Saver  [ 250 gm. Pack ]",
+      "productHsn": 3812,
+      "productPrice": 190,
+      "productTaxRate": 18,
+      "productUnit": "Pack",
+      "inStock": -32,
+      "id": 5
+    },
+    {
+      "productName": "Black           Turbo chrom 1 kg.",
+      "productHsn": 3215,
+      "productPrice": "236",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -34,
+      "id": 6
+    },
+    {
+      "productName": "Brillient Red {13701}",
+      "productHsn": 3215,
+      "productPrice": "500",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -8,
+      "id": 7
+    },
+    {
+      "productName": "UV  Wash  { 5 Ltr. }",
+      "productHsn": "3814",
+      "productPrice": "210",
+      "productTaxRate": "18",
+      "productUnit": "ltr.",
+      "inStock": -25,
+      "id": 8
+    },
+    {
+      "productName": "Cyan          Turbo chrom   1Kg",
+      "productHsn": 3215,
+      "productPrice": "281",
+      "productTaxRate": "18",
+      "productUnit": "kg.",
+      "inStock": -99,
+      "id": 9
+    },
+    {
+      "productName": "Cyan          Turbo chrom   2Kg",
+      "productHsn": 3215,
+      "productPrice": "275",
+      "productTaxRate": "18",
+      "productUnit": "kg.",
+      "inStock": -542,
+      "id": 10
+    },
+    {
+      "productName": "Damping Hose 70 no.  { Per mtr. }",
+      "productHsn": 5909,
+      "productPrice": 132,
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -5.609999999999999,
+      "id": 11
+    },
+    {
+      "productName": "Damping Hose 110 no.  super",
+      "productHsn": 5909,
+      "productPrice": 142,
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -78.02000000399998,
+      "id": 12
+    },
+    {
+      "productName": "Damping Hose 140 no.  super",
+      "productHsn": 5909,
+      "productPrice": "178",
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -118.95,
+      "id": 13
+    },
+    {
+      "productName": "Damping Hose 160 no.  super",
+      "productHsn": 5909,
+      "productPrice": "182",
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -107.36,
+      "id": 14
+    },
+    {
+      "productName": "Damping Hose  200 No. super",
+      "productHsn": 5909,
+      "productPrice": "198",
+      "productTaxRate": 12,
+      "productUnit": "Mtr.",
+      "inStock": -48.94,
+      "id": 15
+    },
+    {
+      "productName": "Damping Hose  220No  { per Mtr. }",
+      "productHsn": 5909,
+      "productPrice": 198,
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -2.55,
+      "id": 16
+    },
+    {
+      "productName": "Damping Hose 210 No.  {per mtr.}",
+      "productHsn": 5909,
+      "productPrice": 192,
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -2.54,
+      "id": 17
+    },
+    {
+      "productName": "Damping Hose 150 No.  {per Mtr.}",
+      "productHsn": 5909,
+      "productPrice": 163,
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -49.86,
+      "id": 18
+    },
+    {
+      "productName": "Damping Cloth  190 mm                                              ",
+      "productHsn": 5909,
+      "productPrice": "161.50",
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -70.5,
+      "id": 19
+    },
+    {
+      "productName": "Damping Hose 170 no.  ",
+      "productHsn": 5909,
+      "productPrice": "185",
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -62.31000000000002,
+      "id": 20
+    },
+    {
+      "productName": "Damping Hose 180 no                       ",
+      "productHsn": 5909,
+      "productPrice": "193",
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -35.32,
+      "id": 21
+    },
+    {
+      "productName": "Damping Hose 190 no  super",
+      "productHsn": 5909,
+      "productPrice": "195",
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -65.33,
+      "id": 22
+    },
+    {
+      "productName": "Delete P",
+      "productHsn": 3824,
+      "productPrice": "105",
+      "productTaxRate": 18,
+      "productUnit": " botl.",
+      "inStock": -77,
+      "id": 23
+    },
+    {
+      "productName": "Dryfount    Pkt.",
+      "productHsn": 3824,
+      "productPrice": 168,
+      "productTaxRate": 18,
+      "productUnit": "Pkt.",
+      "inStock": -58,
+      "id": 24
+    },
+    {
+      "productName": "PUMIC POWDER",
+      "productHsn": "3824",
+      "productPrice": "40",
+      "productTaxRate": 18,
+      "productUnit": "Pkt.",
+      "inStock": -73,
+      "id": 25
+    },
+    {
+      "productName": "Econowash KR  { 20 Lt. }",
+      "productHsn": 3814,
+      "productPrice": "148",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -400,
+      "id": 26
+    },
+    {
+      "productName": "Floral Royal Blue",
+      "productHsn": 3215,
+      "productPrice": "510",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -8,
+      "id": 27
+    },
+    {
+      "productName": "w/o Magenta",
+      "productHsn": "3215",
+      "productPrice": "175",
+      "productTaxRate": 18,
+      "productUnit": "kgs.",
+      "inStock": -110,
+      "id": 28
+    },
+    {
+      "productName": "Fount Concentrate Powder [5lt. ]",
+      "productHsn": 3824,
+      "productPrice": "120",
+      "productTaxRate": 18,
+      "productUnit": "pack",
+      "inStock": -147,
+      "id": 29
+    },
+    {
+      "productName": "Galic Powder 200g pack",
+      "productHsn": 2918,
+      "productPrice": "78",
+      "productTaxRate": 18,
+      "productUnit": "pack",
+      "inStock": -18,
+      "id": 30
+    },
+    {
+      "productName": "Gel Tack Reducer       ",
+      "productHsn": 3824,
+      "productPrice": "240",
+      "productTaxRate": 18,
+      "productUnit": "kg.",
+      "inStock": -158,
+      "id": 31
+    },
+    {
+      "productName": "Graphic Art Film  22\"  [ 200 feet ]",
+      "productHsn": 3702,
+      "productPrice": "18440",
+      "productTaxRate": 18,
+      "productUnit": "Roll",
+      "inStock": -8,
+      "id": 32
+    },
+    {
+      "productName": "Graphic Art Film  18\"  [ 200 feet ]",
+      "productHsn": 3702,
+      "productPrice": "15160",
+      "productTaxRate": 18,
+      "productUnit": "Roll",
+      "inStock": -68,
+      "id": 33
+    },
+    {
+      "productName": "Graphic Art Film  20\"  [ 200 feet ]",
+      "productHsn": 3702,
+      "productPrice": "16800",
+      "productTaxRate": 18,
+      "productUnit": "Roll",
+      "inStock": -72,
+      "id": 34
+    },
+    {
+      "productName": "Gum Choora 1.5 no.",
+      "productHsn": 1301,
+      "productPrice": "140",
+      "productTaxRate": 5,
+      "productUnit": "kgs.",
+      "inStock": -90,
+      "id": 35
+    },
+    {
+      "productName": "Loi      [Met.]",
+      "productHsn": 5111,
+      "productPrice": "80",
+      "productTaxRate": 5,
+      "productUnit": "mtr.",
+      "inStock": -152,
+      "id": 36
+    },
+    {
+      "productName": "Magenta   Turbo chrom 5 kgs.",
+      "productHsn": 3215,
+      "productPrice": "276",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -15,
+      "id": 37
+    },
+    {
+      "productName": "Magenta  Turbo  chrom  1Kg",
+      "productHsn": 3215,
+      "productPrice": "271",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -73,
+      "id": 38
+    },
+    {
+      "productName": "Magenta  Turbo  chrom  2Kg",
+      "productHsn": 3215,
+      "productPrice": "265",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -834,
+      "id": 39
+    },
+    {
+      "productName": "Ultra Pure Gum+  {5 Ltr.}",
+      "productHsn": "3824",
+      "productPrice": "72",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -29,
+      "id": 40
+    },
+    {
+      "productName": "Mixing White [ 1.200kg. Pack ]",
+      "productHsn": 3215,
+      "productPrice": "300",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -982.8,
+      "id": 41
+    },
+    {
+      "productName": "N/F Developer 1 Lt",
+      "productHsn": 3707,
+      "productPrice": "215",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -69,
+      "id": 42
+    },
+    {
+      "productName": "N/F Sensitizer 500ml",
+      "productHsn": 3707,
+      "productPrice": "165",
+      "productTaxRate": 18,
+      "productUnit": "bottl.",
+      "inStock": -423,
+      "id": 43
+    },
+    {
+      "productName": "ND  USR 100M-216X368       (100 Sheets)",
+      "productHsn": 3920,
+      "productPrice": "6.85",
+      "productTaxRate": 18,
+      "productUnit": "sheets",
+      "inStock": -10900,
+      "id": 44
+    },
+    {
+      "productName": "ND OPTIMA 216x368   ",
+      "productHsn": 3920,
+      "productPrice": "5.75",
+      "productTaxRate": 18,
+      "productUnit": "sheets",
+      "inStock": -1600,
+      "id": 45
+    },
+    {
+      "productName": "ND USR 100M  260 X 400  (100sheets)",
+      "productHsn": 3920,
+      "productPrice": 9.05,
+      "productTaxRate": 18,
+      "productUnit": "sheets",
+      "inStock": 0,
+      "id": 46
+    },
+    {
+      "productName": "ND UMR 100M-305X457   ",
+      "productHsn": 3920,
+      "productPrice": 12.9,
+      "productTaxRate": 18,
+      "productUnit": "sheets",
+      "inStock": 0,
+      "id": 47
+    },
+    {
+      "productName": "News Web Master CYAN  20kg",
+      "productHsn": 3215,
+      "productPrice": "176",
+      "productTaxRate": "18",
+      "productUnit": "Kgs.",
+      "inStock": 0,
+      "id": 48
+    },
+    {
+      "productName": "Fount Complete Regular",
+      "productHsn": "3824",
+      "productPrice": "145",
+      "productTaxRate": "18",
+      "productUnit": "LTR.",
+      "inStock": -20,
+      "id": 49
+    },
+    {
+      "productName": "N/ F Developer 5L",
+      "productHsn": 3707,
+      "productPrice": 210,
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -170,
+      "id": 50
+    },
+    {
+      "productName": "Novadom Fount       5Lt.",
+      "productHsn": 3824,
+      "productPrice": "88",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -145,
+      "id": 51
+    },
+    {
+      "productName": "Novadom Fount       1 Lt.",
+      "productHsn": 3824,
+      "productPrice": "90",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -2,
+      "id": 52
+    },
+    {
+      "productName": "Novanol Xtra     20 Ltr.",
+      "productHsn": 2905,
+      "productPrice": "176",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -640,
+      "id": 53
+    },
+    {
+      "productName": "Hypo",
+      "productHsn": "2832",
+      "productPrice": "50",
+      "productTaxRate": 18,
+      "productUnit": "kgs.",
+      "inStock": -65,
+      "id": 54
+    },
+    {
+      "productName": "Plate Clean Ultra 5L",
+      "productHsn": 3814,
+      "productPrice": "100",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -2088,
+      "id": 55
+    },
+    {
+      "productName": "Plate cleaner G P [ 1Lt. ]",
+      "productHsn": 3814,
+      "productPrice": "165",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -101,
+      "id": 56
+    },
+    {
+      "productName": "Plate cleaner G P [ 5Lt. ]",
+      "productHsn": 3814,
+      "productPrice": "155",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -1060,
+      "id": 57
+    },
+    {
+      "productName": "PM Mixing White    ",
+      "productHsn": 3215,
+      "productPrice": "302",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -97.2,
+      "id": 58
+    },
+    {
+      "productName": "MITSU BLACK",
+      "productHsn": "3215",
+      "productPrice": "300",
+      "productTaxRate": 18,
+      "productUnit": "kgs.",
+      "inStock": -160,
+      "id": 59
+    },
+    {
+      "productName": "Pooja Black INK SAKATA  ",
+      "productHsn": 3215,
+      "productPrice": "150",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -3516,
+      "id": 61
+    },
+    {
+      "productName": "Popular # 3 Ecopure 1 soy  CYAN",
+      "productHsn": 3215,
+      "productPrice": "270",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -678,
+      "id": 62
+    },
+    {
+      "productName": "Popular # 3 Ecopure 1 soy  MAGENTA",
+      "productHsn": 3215,
+      "productPrice": "270",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -819,
+      "id": 63
+    },
+    {
+      "productName": "Popular # 3 Ecopure 1 soy  YELLOW",
+      "productHsn": 3215,
+      "productPrice": "270",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -1315,
+      "id": 64
+    },
+    {
+      "productName": "Popular # 3  Ecopure 1 Soy Black ",
+      "productHsn": 3215,
+      "productPrice": "240",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -756,
+      "id": 66
+    },
+    {
+      "productName": "Popular Brill. Orange      1Kg",
+      "productHsn": 3215,
+      "productPrice": "342",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -189,
+      "id": 67
+    },
+    {
+      "productName": "Popular Brill. Red     1 Kg",
+      "productHsn": 3215,
+      "productPrice": "330",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -18,
+      "id": 68
+    },
+    {
+      "productName": "Popular Royal Blue  O/S     1 Kg",
+      "productHsn": 3215,
+      "productPrice": "355",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -47,
+      "id": 69
+    },
+    {
+      "productName": "CRS max Gel Trans Ink HGI-20800",
+      "productHsn": "3215",
+      "productPrice": "300",
+      "productTaxRate": 18,
+      "productUnit": "Kg.",
+      "inStock": -21,
+      "id": 70
+    },
+    {
+      "productName": "",
+      "productHsn": "3215",
+      "productPrice": "380",
+      "productTaxRate": 18,
+      "productUnit": "Kgs.",
+      "inStock": -12,
+      "id": 71
+    },
+    {
+      "productName": "Rubber Blanket 42x36'\"      2 Ply",
+      "productHsn": 4016,
+      "productPrice": 1500,
+      "productTaxRate": 18,
+      "productUnit": "pc.",
+      "inStock": 0,
+      "id": 72
+    },
+    {
+      "productName": "Sponge",
+      "productHsn": 3912,
+      "productPrice": "75",
+      "productTaxRate": 18,
+      "productUnit": "pc.",
+      "inStock": -248,
+      "id": 73
+    },
+    {
+      "productName": "Spray Powder PILE-H   ( Technova ) 1kg",
+      "productHsn": 3809,
+      "productPrice": 210,
+      "productTaxRate": 18,
+      "productUnit": "pack",
+      "inStock": -3,
+      "id": 74
+    },
+    {
+      "productName": "Super Fount Blue (30*1   )       30 Ltr.",
+      "productHsn": 3824,
+      "productPrice": "62",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -450,
+      "id": 75
+    },
+    {
+      "productName": "Super Silver",
+      "productHsn": 3215,
+      "productPrice": "",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -3,
+      "id": 76
+    },
+    {
+      "productName": "T P A4*100 Sheets",
+      "productHsn": 4806,
+      "productPrice": "168",
+      "productTaxRate": 18,
+      "productUnit": "Pkt.",
+      "inStock": -5,
+      "id": 77
+    },
+    {
+      "productName": "Thin Reducer   1 Ltr.",
+      "productHsn": 3824,
+      "productPrice": "200",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -18,
+      "id": 78
+    },
+    {
+      "productName": "Tone-P   Powder",
+      "productHsn": 3707,
+      "productPrice": 63,
+      "productTaxRate": 18,
+      "productUnit": "pack",
+      "inStock": -4,
+      "id": 79
+    },
+    {
+      "productName": "Total Care Fount Solution    20Ltr.",
+      "productHsn": 3824,
+      "productPrice": 141,
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": 0,
+      "id": 80
+    },
+    {
+      "productName": "Ultrafount   ",
+      "productHsn": 3824,
+      "productPrice": "100",
+      "productTaxRate": 18,
+      "productUnit": "ltr.",
+      "inStock": -65,
+      "id": 81
+    },
+    {
+      "productName": "UMR  216x368 mm   Master {100 Sheets}",
+      "productHsn": 3920,
+      "productPrice": 6.75,
+      "productTaxRate": 18,
+      "productUnit": "sheets",
+      "inStock": -1200,
+      "id": 82
+    },
+    {
+      "productName": "Popular Vivid Green",
+      "productHsn": 3215,
+      "productPrice": "336",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -38,
+      "id": 83
+    },
+    {
+      "productName": "W/O Black",
+      "productHsn": 3215,
+      "productPrice": "115",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -2280,
+      "id": 84
+    },
+    {
+      "productName": " Wash",
+      "productHsn": 3814,
+      "productPrice": "145",
+      "productTaxRate": 18,
+      "productUnit": "ltr.",
+      "inStock": -550,
+      "id": 85
+    },
+    {
+      "productName": "XACT Ecopure  1 Soy    BLACK",
+      "productHsn": 3215,
+      "productPrice": "375",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -28,
+      "id": 86
+    },
+    {
+      "productName": "XACT Ecopure  1 Soy    YELLOW",
+      "productHsn": 3215,
+      "productPrice": "415",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -57,
+      "id": 87
+    },
+    {
+      "productName": "XACT Ecopure 1 Soy     CYAN",
+      "productHsn": 3215,
+      "productPrice": "415",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -33,
+      "id": 88
+    },
+    {
+      "productName": "XACT Ecopure 1 Soy     MAGENTA",
+      "productHsn": 3215,
+      "productPrice": "415",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -39,
+      "id": 89
+    },
+    {
+      "productName": "Yellow       Turbo chrom  2Kg",
+      "productHsn": 3215,
+      "productPrice": "265",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -1038,
+      "id": 90
+    },
+    {
+      "productName": "Yellow       Turbo chrom  5  Kg",
+      "productHsn": 3215,
+      "productPrice": "",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -20,
+      "id": 91
+    },
+    {
+      "productName": "Yellow 1kg Turbo",
+      "productHsn": 3215,
+      "productPrice": "271",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -35,
+      "id": 92
+    },
+    {
+      "productName": "Glue  415             30 kg. pack",
+      "productHsn": 3506,
+      "productPrice": 290,
+      "productTaxRate": 18,
+      "productUnit": "kg.",
+      "inStock": -60,
+      "id": 93
+    },
+    {
+      "productName": "Glue 409             30 kg. pack",
+      "productHsn": 3506,
+      "productPrice": 250,
+      "productTaxRate": 18,
+      "productUnit": "kg.",
+      "inStock": -150,
+      "id": 94
+    },
+    {
+      "productName": "",
+      "productHsn": "5909",
+      "productPrice": "178",
+      "productTaxRate": "12",
+      "productUnit": "mtr.",
+      "inStock": -54.11,
+      "id": 95
+    },
+    {
+      "productName": "",
+      "productHsn": 5909,
+      "productPrice": "182",
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -85.52,
+      "id": 96
+    },
+    {
+      "productName": "",
+      "productHsn": 5909,
+      "productPrice": 185,
+      "productTaxRate": 12,
+      "productUnit": "mtr.",
+      "inStock": -17.55,
+      "id": 97
+    },
+    {
+      "productName": "Banzine     ",
+      "productHsn": 2902,
+      "productPrice": "137",
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -194,
+      "id": 98
+    },
+    {
+      "productName": "Phosporic Acid",
+      "productHsn": 2809,
+      "productPrice": 240,
+      "productTaxRate": 18,
+      "productUnit": "kgs.",
+      "inStock": -162,
+      "id": 99
+    },
+    {
+      "productName": "Blanket Improver     { 1 Ltr. }",
+      "productHsn": 3814,
+      "productPrice": 150,
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": -38,
+      "id": 100
+    },
+    {
+      "productName": "",
+      "productHsn": 3814,
+      "productPrice": 95,
+      "productTaxRate": 18,
+      "productUnit": "Ltr.",
+      "inStock": 0,
+      "id": 101
+    },
+    {
+      "productName": " GUM BOLD",
+      "productHsn": "3824",
+      "productPrice": "140",
+      "productTaxRate": 18,
+      "productUnit": "kg.",
+      "inStock": -105,
+      "id": 102
+    },
+    {
+      "productName": "W/O Process Black   [ 9306  ]",
+      "productHsn": 3215,
+      "productPrice": "130",
+      "productTaxRate": "18",
+      "productUnit": "Kg.",
+      "inStock": -680,
+      "id": 103
+    },
+    {
+      "productName": "",
+      "productHsn": 3215,
+      "productPrice": 305,
+      "productTaxRate": "18",
+      "productUnit": "kg.",
+      "inStock": -10,
+      "id": 104
+    },
+    {
+      "productName": "",
+      "productHsn": "3215",
+      "productPrice": "370",
+      "productTaxRate": 18,
+      "productUnit": "Kgs.",
+      "inStock": -34,
+      "id": 105
+    },
+    {
+      "productName": "NL - SF Black",
+      "productHsn": 3215,
+      "productPrice": "154",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -40,
+      "id": 106
+    },
+    {
+      "productName": "W/O Black        [  Sakata  ]",
+      "productHsn": 3215,
+      "productPrice": "116",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -2095,
+      "id": 107
+    },
+    {
+      "productName": "Wash 102",
+      "productHsn": 3814,
+      "productPrice": "120",
+      "productTaxRate": 18,
+      "productUnit": "ltr.",
+      "inStock": -1954,
+      "id": 108
+    },
+    {
+      "productName": "POOJA BLACK   [ HUBER ]",
+      "productHsn": 3215,
+      "productPrice": "135",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -745,
+      "id": 109
+    },
+    {
+      "productName": "E  Wash",
+      "productHsn": "3814",
+      "productPrice": "136",
+      "productTaxRate": 18,
+      "productUnit": "ltr.",
+      "inStock": -410,
+      "id": 110
+    },
+    {
+      "productName": "Galic Acid ",
+      "productHsn": "3824",
+      "productPrice": "300",
+      "productTaxRate": 18,
+      "productUnit": "kgs.",
+      "inStock": -41,
+      "id": 111
+    },
+    {
+      "productName": "Anti-Setoff Powder",
+      "productHsn": "3824",
+      "productPrice": "144",
+      "productTaxRate": 18,
+      "productUnit": "Kgs.",
+      "inStock": -112,
+      "id": 112
+    },
+    {
+      "productName": "HP Universal Plus  BLACK",
+      "productHsn": 3215,
+      "productPrice": "342",
+      "productTaxRate": "18",
+      "productUnit": "Kgs.",
+      "inStock": -244,
+      "id": 115
+    },
+    {
+      "productName": "HP universal Plus  CYAN",
+      "productHsn": 3215,
+      "productPrice": "380",
+      "productTaxRate": "18",
+      "productUnit": "kgs.",
+      "inStock": -238,
+      "id": 116
+    },
+    {
+      "productName": "HP Universal Plus  YELLOW",
+      "productHsn": 3215,
+      "productPrice": "380",
+      "productTaxRate": "18",
+      "productUnit": "Kgs.",
+      "inStock": -464,
+      "id": 117
+    },
+    {
+      "productName": "HP Universal Plus MAGENTA",
+      "productHsn": 3215,
+      "productPrice": "380",
+      "productTaxRate": "18",
+      "productUnit": "Kgs.",
+      "inStock": -292,
+      "id": 118
+    },
+    {
+      "productName": "22x36",
+      "productHsn": "3705",
+      "productPrice": "385",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 120
+    },
+    {
+      "productName": "w/o cyan",
+      "productHsn": 3215,
+      "productPrice": "175",
+      "productTaxRate": "18",
+      "productUnit": "Kgs.",
+      "inStock": -120,
+      "id": 121
+    },
+    {
+      "productName": "BLUISH BOOK BLACK",
+      "productHsn": 3215,
+      "productPrice": "150",
+      "productTaxRate": "18",
+      "productUnit": "Kgs.",
+      "inStock": -120,
+      "id": 122
+    },
+    {
+      "productName": "22x35",
+      "productHsn": "3705",
+      "productPrice": "380",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 126
+    },
+    {
+      "productName": "20x30",
+      "productHsn": "3705",
+      "productPrice": "330",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 128
+    },
+    {
+      "productName": "20x26",
+      "productHsn": "3705",
+      "productPrice": "310",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 129
+    },
+    {
+      "productName": "23x36/16",
+      "productHsn": "3705",
+      "productPrice": "29",
+      "productTaxRate": "12",
+      "productUnit": "Page",
+      "inStock": 0,
+      "id": 130
+    },
+    {
+      "productName": "23x36/8",
+      "productHsn": "3705",
+      "productPrice": "50",
+      "productTaxRate": "12",
+      "productUnit": "Page",
+      "inStock": 0,
+      "id": 131
+    },
+    {
+      "productName": "20x30/8",
+      "productHsn": "3705",
+      "productPrice": "45",
+      "productTaxRate": "12",
+      "productUnit": "Page",
+      "inStock": 0,
+      "id": 132
+    },
+    {
+      "productName": "23x36",
+      "productHsn": "3705",
+      "productPrice": "390",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 133
+    },
+    {
+      "productName": "Repasting   20X30",
+      "productHsn": "3705",
+      "productPrice": "50",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 134
+    },
+    {
+      "productName": "Inner",
+      "productHsn": "3705",
+      "productPrice": "20",
+      "productTaxRate": "12",
+      "productUnit": "Inner",
+      "inStock": 0,
+      "id": 135
+    },
+    {
+      "productName": "18x27     JOB",
+      "productHsn": "3705",
+      "productPrice": "265",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 136
+    },
+    {
+      "productName": "22x28",
+      "productHsn": "3705",
+      "productPrice": "350",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 137
+    },
+    {
+      "productName": "20x26/8",
+      "productHsn": "3705",
+      "productPrice": "41",
+      "productTaxRate": "12",
+      "productUnit": "Page",
+      "inStock": 0,
+      "id": 138
+    },
+    {
+      "productName": "Clean/Touch",
+      "productHsn": "3705",
+      "productPrice": "50",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 141
+    },
+    {
+      "productName": "ISBN",
+      "productHsn": "3705",
+      "productPrice": "20",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 142
+    },
+    {
+      "productName": "Refresh",
+      "productHsn": "3705",
+      "productPrice": "75",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 143
+    },
+    {
+      "productName": "Folio Paysting",
+      "productHsn": "3705",
+      "productPrice": "30",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 144
+    },
+    {
+      "productName": "Correction Charges ",
+      "productHsn": "3705",
+      "productPrice": "50",
+      "productTaxRate": "12",
+      "productUnit": "F",
+      "inStock": 0,
+      "id": 145
+    }
+  ]
