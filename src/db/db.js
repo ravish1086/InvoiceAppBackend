@@ -5,7 +5,7 @@ import { DB_NAME } from "../../constant.js";
 const MONGODB_URI='mongodb+srv://admin:wwZKrUDfDFKuPHok@ezinvoicedb.7fhgk.mongodb.net'
 const connectDB = async ()=> {
     try{
-        const connectionInstance = await mongoose.connect(MONGODB_URI+"/"+DB_NAME);
+        const connectionInstance = await mongoose.connect('mongodb+srv://admin:wwZKrUDfDFKuPHok@ezinvoicedb.7fhgk.mongodb.net'+"/"+DB_NAME);
         if(connectionInstance){
             console.log(`\n MongoDB connected !! DB HOST: ${connectionInstance.connection.host}`);
         }
