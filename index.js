@@ -11,7 +11,7 @@ const PORT=4500
 console.log("Server COnfigured")
 connectDB()
 .then(() => {
-    app.listen(process.env.PORT, ()=>{
+    app.listen(PORT, ()=>{
         console.log(`Server is running at PORT ${PORT}`)
     })
 })
