@@ -16,7 +16,7 @@ const authenticateUser = async (req,res) => {
             jwt.sign(
                 payload,
                 process.env.JWT_SECRET,
-                { expiresIn: '1h' }, // Token expires in 1 hour
+                { expiresIn: '30s' }, // Token expires in 1 hour
                 (err, token) => {
                     if (err) throw err;
                     res.status(200).json({ message:"Successfully Authenticated", userInfo:authenticatedUser, token });
