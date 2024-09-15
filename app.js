@@ -24,6 +24,8 @@ app.use('/api/v1/customers', customerRouter);
 app.use('/api/v1/users', userRouter);
 app.use('/api/v1/sellers', sellerRouter);
 app.use('/api/v1/authenticate', loginRouter);
-
+app.use('/',((req,res)=>{
+        res.send("Success Route")
+}))
 
 export { app }
