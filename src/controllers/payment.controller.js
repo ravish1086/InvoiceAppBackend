@@ -13,7 +13,9 @@ const getAllPaymentDetails = async (req, res)=> {
 
 const savePaymentDetails = async (req,res) => {
     try{
-        let savedDetails = await Payment.create(req.body);
+        let reqJson = req.body;
+        reqJson.isActive = 1;
+        let savedDetails = await Payment.create(reqJson);
         if(!savedDetails){
             return res.status(400).json({message: 'Unable to save payment details'});
         }

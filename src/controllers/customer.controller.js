@@ -16,14 +16,16 @@ const getAllCustomers = async (req,res)=>{
 
 const saveCustomerDetails = async (req,res)=>{
     try{
-        let customer = await Customer.create(req.body);
+        let reqJson = req.body;
+        reqJson.isActive = 1;
+        let customer = await Customer.create(reqJson);
         if(!customer){
             res.status(400).json({message:"Unable to save customer details"});
         }
         res.status(200).json(customer);
     }
     catch(error){
-        res.send(500).json({message: error.message})
+        res.status(500).json({message: error.message})
     }
 }
 
@@ -36,7 +38,7 @@ const updateCustomerDetails = async (req,res)=>{
         res.status(200).json(customer);
     }
     catch(error){
-        res.send(500).json({message: error.message})
+        res.status(500).json({message: error.message})
     }
 }
 
@@ -53,4 +55,16 @@ const deleteCustomerDetails = async (req,res)=>{
     }
 }
 
-export {getAllCustomers, updateCustomerDetails, saveCustomerDetails, deleteCustomerDetails};
+const importCustomerData = async (req,res)=> {
+    try{
+        res.json({
+            status: 'success',
+            data: req.excelData
+          });
+    }
+    catch(error){
+
+    }
+}
+
+export {getAllCustomers, updateCustomerDetails, saveCustomerDetails, deleteCustomerDetails, importCustomerData};

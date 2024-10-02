@@ -12,7 +12,9 @@ const getAllProducts = async (req, res) => {
 
 const addProduct = async (req, res) => {
     try {
-        let addedProduct = await Product.create(req.body);
+        let reqJson = req.body;
+        reqJson.isActive = 1;
+        let addedProduct = await Product.create(reqJson);
         if (!addedProduct) {
             return res.status(400).json({ message: '"Bad Request' });
         }

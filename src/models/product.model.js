@@ -24,8 +24,12 @@ const productSchema = new mongoose.Schema({
     id:{
         type:"Number",
         unique:true
+    },
+    isActive:{
+        type: "Number"
     }
-})
+},
+{timestamps:true})
 
 
 export const Product = mongoose.model("Product",productSchema);

@@ -96,7 +96,8 @@ const invoiceSchema = new mongoose.Schema(
         "createdBy": {
           "type": "String"
         }
-      }
+      },
+      {timestamps:true}
 )
 
 export const Invoice = mongoose.model("Invoice", invoiceSchema);

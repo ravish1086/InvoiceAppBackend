@@ -25,6 +25,7 @@ const paymentSchema = new mongoose.Schema({
     "isActive": {
       "type": "Number"
     }
-  });
+  },
+  {timestamps:true});
 
  export const Payment = mongoose.model("Payment", paymentSchema);
